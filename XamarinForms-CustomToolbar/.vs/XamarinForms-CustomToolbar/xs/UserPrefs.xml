@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{2CA4C901-D981-4958-895A-54D2A1CAB2AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms-CustomToolbar.Android/RoundCornersButtonRenderer.cs">
+    <Files>
+      <File FileName="XamarinForms-CustomToolbar/App.xaml.cs" Line="27" Column="48" />
+      <File FileName="XamarinForms-CustomToolbar/Controls/RoundCornersButton.cs" Line="8" Column="9" />
+      <File FileName="XamarinForms-CustomToolbar.Android/RoundCornersButtonRenderer.cs" Line="21" Column="38" />
+      <File FileName="XamarinForms-CustomToolbar.iOS/RoundCornersButtonRenderer.cs" Line="21" Column="1" />
+      <File FileName="XamarinForms-CustomToolbar.iOS/AppDelegate.cs" Line="28" Column="1" />
+      <File FileName="XamarinForms-CustomToolbar.Android/MainActivity.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinForms-CustomToolbar" expanded="True">
+            <Node name="XamarinForms-CustomToolbar" expanded="True">
+              <Node name="Controls" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinForms-CustomToolbar.Android" expanded="True" />
+            <Node name="XamarinForms-CustomToolbar.iOS" expanded="True">
+              <Node name="MyNavigationPageRenderer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinForms-CustomToolbar.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4DA9CBF-170B-441C-AEFF-5F4291F473E6" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinForms-CustomToolbar.Android PreferredExecutionTarget="Android.flutter_emulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
