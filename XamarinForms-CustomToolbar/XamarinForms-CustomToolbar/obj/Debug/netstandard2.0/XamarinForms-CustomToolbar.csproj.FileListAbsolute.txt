@@ -1,0 +1,12 @@
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/bin/Debug/netstandard2.0/XamarinForms-CustomToolbar.deps.json
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/bin/Debug/netstandard2.0/XamarinForms-CustomToolbar.dll
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/bin/Debug/netstandard2.0/XamarinForms-CustomToolbar.pdb
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/HomePage.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamarinForms-CustomToolbar.csproj.CoreCompileInputs.cache
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamarinForms-CustomToolbar.AssemblyInfoInputs.cache
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamarinForms-CustomToolbar.AssemblyInfo.cs
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamarinForms-CustomToolbar.dll
+/Users/manishtiwari/Projects/Manisht92GitHub/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/XamarinForms-CustomToolbar/obj/Debug/netstandard2.0/XamarinForms-CustomToolbar.pdb
